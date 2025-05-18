@@ -29,7 +29,7 @@ feature_row2:
   - image_path: /assets/images/app-access-control.jpg
     alt: "Classify Files for App Access Control"
     title: "Classify Files for App Access Control"
-    excerpt: 'SmaugVault secures sensitive files through encrypted vault folders and macOS Finder tags, dynamically enforcing application-level access policies to prevent both user errors and malicious exfiltration attempts.'
+    excerpt: 'SmaugVault secures sensitive files through vault folders and macOS Finder tags, dynamically enforcing application-level access policies to prevent both user errors and malicious exfiltration attempts.'
 feature_row3:
   - image_path: /assets/images/network-observability.jpg
     alt: "Network Observability with Minimal Effort"
